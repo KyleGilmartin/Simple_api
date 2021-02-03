@@ -22,6 +22,17 @@
             "loss": 5,
             "points": 19,
             "gd": 20
+        },
+        {
+            "id": 3,
+            "pos": 4,
+            "name": "Galway",
+            "played": 22,
+            "wins": 11,
+            "draw": 5,
+            "loss": 5,
+            "points": 19,
+            "gd": 20
         }
     ]
 }
