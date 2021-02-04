@@ -15,7 +15,18 @@
         {
             "id": 1,
             "pos": 2,
-            "name": "Dublin",
+            "name": "Mayo",
+            "played": 22,
+            "wins": 11,
+            "draw": 5,
+            "loss": 5,
+            "points": 19,
+            "gd": 20
+        },
+        {
+            "id": 2,
+            "pos": 3,
+            "name": "Galway",
             "played": 22,
             "wins": 11,
             "draw": 5,
@@ -26,7 +37,18 @@
         {
             "id": 3,
             "pos": 4,
-            "name": "Galway",
+            "name": "roscommon",
+            "played": 22,
+            "wins": 11,
+            "draw": 5,
+            "loss": 5,
+            "points": 19,
+            "gd": 20
+        },
+        {
+            "id": 4,
+            "pos": 5,
+            "name": "leitrim",
             "played": 22,
             "wins": 11,
             "draw": 5,
