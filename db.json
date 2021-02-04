@@ -2,7 +2,7 @@
     "Teams": [{
             "id": 0,
             "pos": 1,
-            "name": "Sligo Rovers",
+            "name": "Sligo",
             "played": 20,
             "wins": 12,
             "draw": 3,
