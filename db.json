@@ -1,7 +1,7 @@
 {
     "Teams": [{
             "id": 0,
-            "pos": 1,
+            "pos": 2,
             "name": "Sligo",
             "played": 20,
             "wins": 12,
@@ -14,7 +14,7 @@
         },
         {
             "id": 1,
-            "pos": 2,
+            "pos": 1,
             "name": "Mayo",
             "played": 22,
             "wins": 11,
