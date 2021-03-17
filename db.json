@@ -25,7 +25,7 @@
         {
             "id": 2,
             "pos": 3,
-            "name": "Athlone IT",
+            "name": "AthloneIT",
             "played": 22,
             "wins": 11,
             "draw": 5,
@@ -47,7 +47,7 @@
         {
             "id": 4,
             "pos": 5,
-            "name": "Waterford IT",
+            "name": "WaterfordIT",
             "played": 22,
             "wins": 11,
             "draw": 5,
