@@ -1,5 +1,6 @@
 {
-    "Teams": [{
+    "Teams": [
+        {
             "id": 0,
             "pos": 1,
             "name": "Sligo IT",
@@ -9,8 +10,6 @@
             "loss": 4,
             "points": 20,
             "gd": 24
-
-
         },
         {
             "id": 1,
@@ -37,7 +36,7 @@
         {
             "id": 3,
             "pos": 4,
-            "name": "roscommon",
+            "name": "MTU",
             "played": 22,
             "wins": 11,
             "draw": 5,
@@ -48,7 +47,7 @@
         {
             "id": 4,
             "pos": 5,
-            "name": "leitrim",
+            "name": "Waterford IT",
             "played": 22,
             "wins": 11,
             "draw": 5,
